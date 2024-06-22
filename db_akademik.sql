@@ -1,6 +1,0 @@
-CREATE TABLE IF NOT EXISTS tb_mahasiswa (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    Nama VARCHAR(100),
-    Alamat VARCHAR(255),
-    Usia INT
-);
